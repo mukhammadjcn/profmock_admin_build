@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.aab82818.css",
-    "main.js": "/static/js/main.afba6536.js",
+    "main.js": "/static/js/main.251710d1.js",
     "static/media/video.mp4": "/static/media/video.3ad36e38caae7d75e824.mp4",
+    "static/media/logo.png": "/static/media/logo.d25708311477692f2b78.png",
     "index.html": "/index.html"
   },
   "entrypoints": [
     "static/css/main.aab82818.css",
-    "static/js/main.afba6536.js"
+    "static/js/main.251710d1.js"
   ]
 }
